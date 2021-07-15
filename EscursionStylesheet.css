@@ -1,0 +1,14 @@
+html {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+a {
+    color: turquoise;
+}
+h3 {
+    opacity: 50%;
+}
